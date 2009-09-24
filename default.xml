@@ -7,8 +7,8 @@
   <default remote="korg" revision="cupcake-release"/>
   
   <project name="abstrakraft/android_dream-open" path="vendor/htc/dream-open" remote="github" revision="refs/heads/cupcake"/>
-  <project name="android-obex/abstrakraft-obexftp" path="external/obexftp" remote="gitorious" revision="refs/heads/master"/>
-  <project name="android-obex/abstrakraft-obexpushd" path="external/obexpushd" remote="gitorious" revision="refs/heads/master"/>
+  <project name="android-obex/obexftp" path="external/obexftp" remote="gitorious" revision="refs/heads/master"/>
+  <project name="android-obex/obexpushd" path="external/obexpushd" remote="gitorious" revision="refs/heads/master"/>
   <project name="android-obex/openobex" path="external/openobex" remote="gitorious" revision="refs/heads/master"/>
   <project name="cyanogen/android_bionic" path="bionic" remote="github" revision="refs/heads/master"/>
   <project name="cyanogen/android_bootable_recovery" path="bootable/recovery" remote="github" revision="refs/heads/master"/>
